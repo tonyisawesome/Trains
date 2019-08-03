@@ -21,5 +21,11 @@ def main():
     # 5.
     print(utils.find_distance(graph, ['A', 'E', 'D']))
 
+    # 6.
+    print(utils.find_routes_max_stops(graph, 'C', 'C', 3))
+
+    # 7.
+    print(utils.find_routes_equal_stops(graph, 'A', 'C', 4))
+
 
 main()

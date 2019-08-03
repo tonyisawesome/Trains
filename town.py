@@ -11,3 +11,6 @@ class Town:
 
     def get_dist(self, to_town):
         return self._dist[to_town]
+
+    def get_dst(self):
+        return [town for town in self._dist.keys()]

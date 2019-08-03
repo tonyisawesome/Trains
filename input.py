@@ -12,4 +12,3 @@ def get_graph():
             graph[line[0]] = town
 
     return graph
-
