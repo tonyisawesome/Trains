@@ -1,5 +1,5 @@
 Assumptions:
-1. All of the tracks are 'one-way.
+1. All of the tracks are one-way.
 2. All of the tracks are distinct
 3. A given route will never appear more than once
 4. The starting and ending town will not be the same town.
